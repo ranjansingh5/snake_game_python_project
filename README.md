@@ -1,4 +1,4 @@
-# 🐍 Snake Game (Python – Console Based)
+# 🐍 Snake Game 
 
 This is a **simple text-based Snake game** developed using **pure Python**.  
 The game runs in the **terminal/console** and helps beginners understand Python fundamentals such as lists, loops, conditionals, and random number generation.
